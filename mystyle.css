@@ -1,0 +1,25 @@
+
+p{color:red;}
+h2{color:green;}
+.redgreen{
+color:red;
+background:green;
+}
+.greenred{
+color:green;
+background:red;
+}
+.satrangi{
+color:rgb(4, 4, 255);
+background:yellow;
+font-size:40px;     
+}
+.satrangi:hover{
+    background-color: red;
+    color: white;
+}
+.redgreen:hover{
+color: green;
+    background: red;
+    font-size: 60px;
+}
